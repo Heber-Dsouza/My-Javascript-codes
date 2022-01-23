@@ -1,5 +1,3 @@
-
-
 let foods = ['hamburger', 'pizza', 'coxinha']
 
 
