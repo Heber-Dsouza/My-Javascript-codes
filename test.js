@@ -1,4 +1,6 @@
 let x = 5;
 let y = 8;
 
-console.log(x+y);
+let result = x+y
+
+console.log('O resultado da somo é:', result);
